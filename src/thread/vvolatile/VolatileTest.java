@@ -3,7 +3,7 @@ package thread.vvolatile;
 /**
  * Demonstration of the use of volatile variables as for a
  * weak synchronization between Java threads
- * @author <a href="mailto:everton@dimap.ufrn.br">Everton Cavalcante</a>
+ * @author <a href="mailto:everton.cavalcante@ufrn.br">Everton Cavalcante</a>
  */
 public class VolatileTest {
 	/** Global volatile variable to be shared between the threads */

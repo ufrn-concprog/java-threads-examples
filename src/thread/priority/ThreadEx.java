@@ -3,7 +3,7 @@ package thread.priority;
 /**
  * Class representing a thread by extending the
  * {@link java.lang.Thread} class
- * @author <a href="mailto:everton@dimap.ufrn.br">Everton Cavalcante</a>
+ * @author <a href="mailto:everton.cavalcante@ufrn.br">Everton Cavalcante</a>
  */
 public class ThreadEx extends Thread {
 	/** Time for which the thread will be suspended */

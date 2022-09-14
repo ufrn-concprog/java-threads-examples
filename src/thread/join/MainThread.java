@@ -2,7 +2,7 @@ package thread.join;
 
 /**
  * Main program
- * @author <a href="mailto:everton@dimap.ufrn.br">Everton Cavalcante</a>
+ * @author <a href="mailto:everton.cavalcante@ufrn.br">Everton Cavalcante</a>
  */
 public class MainThread {
 	/**
