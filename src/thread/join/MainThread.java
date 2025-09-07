@@ -22,9 +22,9 @@ public class MainThread {
 		
 		try {
 			// Setting the main thread to wait until the others have been finished
-			thread1.join();
-			thread2.join();
-			thread3.join();
+            thread1.join();
+            thread2.join();
+            thread3.join();
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
