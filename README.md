@@ -1,5 +1,10 @@
 # Thread Programming in Java
 
+[![Java](https://img.shields.io/badge/Java-11%2B-orange?logo=java)](https://www.oracle.com/java/technologies/javase-downloads.html)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![Build](https://img.shields.io/badge/build-manual-lightgrey)
+[![Docs](https://img.shields.io/badge/docs-Javadoc-green)](./doc/index.html)
+
 This educational repository features a set of illustrative examples that demonstrate the use of various threading methods in Java. The learning objectives are:
 
 - Demonstrate practical usage of key thread-related methods, including but not limited to:
