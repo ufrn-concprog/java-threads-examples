@@ -21,7 +21,7 @@ This project is part of the **Concurrent Programming** module at the [Federal Un
 
 ## Repository Structure
 
-Each package in the repository contains source code demonstrating a different method for programming with threads in Java. Packages within [src/thread](src/thread) are organized as follows:
+Each package in the repository contains source code demonstrating a different method for programming with threads in Java. Packages within [`src/thread`](src/thread) are organized as follows:
 
 ```
 .
